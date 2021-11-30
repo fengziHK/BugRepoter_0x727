@@ -150,6 +150,7 @@ $m_auth_array = [
 	'PublicControllers',
 	'LogControllers',
 	'SetupControllers',
+	'DocxControllers',
 ];
 
 if(!in_array($m, $m_auth_array)){
